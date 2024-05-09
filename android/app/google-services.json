@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "872766379916",
+    "project_id": "cool-chat-class-app",
+    "storage_bucket": "cool-chat-class-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:872766379916:android:d2620a3a32062777ec28a9",
+        "android_client_info": {
+          "package_name": "com.mobile.class_chat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkMLCvefyCH0Qwn0dfMyH3k4jhbGklO98"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
