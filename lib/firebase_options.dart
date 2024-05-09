@@ -54,6 +54,7 @@ class DefaultFirebaseOptions {
     appId: '1:872766379916:android:d2620a3a32062777ec28a9',
     messagingSenderId: '872766379916',
     projectId: 'cool-chat-class-app',
+    databaseURL: 'https://cool-chat-class-app-default-rtdb.firebaseio.com',
     storageBucket: 'cool-chat-class-app.appspot.com',
   );
 
@@ -62,7 +63,10 @@ class DefaultFirebaseOptions {
     appId: '1:872766379916:ios:2b65af9cd43f270fec28a9',
     messagingSenderId: '872766379916',
     projectId: 'cool-chat-class-app',
+    databaseURL: 'https://cool-chat-class-app-default-rtdb.firebaseio.com',
     storageBucket: 'cool-chat-class-app.appspot.com',
+    androidClientId: '872766379916-aig7aog4c9msto8mgs8mpcarj5fb0ov1.apps.googleusercontent.com',
+    iosClientId: '872766379916-redkqbjrv43h0gkqkqqpulcso2ettslk.apps.googleusercontent.com',
     iosBundleId: 'com.mobile.classChat',
   );
 

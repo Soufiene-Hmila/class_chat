@@ -2,6 +2,12 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>CLIENT_ID</key>
+	<string>872766379916-redkqbjrv43h0gkqkqqpulcso2ettslk.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.872766379916-redkqbjrv43h0gkqkqqpulcso2ettslk</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>872766379916-aig7aog4c9msto8mgs8mpcarj5fb0ov1.apps.googleusercontent.com</string>
 	<key>API_KEY</key>
 	<string>AIzaSyAPgEOIyPDwxVkfC8xkxNQ5rBCZwftliJg</string>
 	<key>GCM_SENDER_ID</key>
@@ -26,5 +32,7 @@
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
 	<string>1:872766379916:ios:2b65af9cd43f270fec28a9</string>
+	<key>DATABASE_URL</key>
+	<string>https://cool-chat-class-app-default-rtdb.firebaseio.com</string>
 </dict>
 </plist>

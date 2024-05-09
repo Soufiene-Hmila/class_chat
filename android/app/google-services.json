@@ -1,6 +1,7 @@
 {
   "project_info": {
     "project_number": "872766379916",
+    "firebase_url": "https://cool-chat-class-app-default-rtdb.firebaseio.com",
     "project_id": "cool-chat-class-app",
     "storage_bucket": "cool-chat-class-app.appspot.com"
   },
@@ -12,7 +13,20 @@
           "package_name": "com.mobile.class_chat"
         }
       },
-      "oauth_client": [],
+      "oauth_client": [
+        {
+          "client_id": "872766379916-aig7aog4c9msto8mgs8mpcarj5fb0ov1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mobile.class_chat",
+            "certificate_hash": "848fa71ff08d0edf1b28dcf6b0a67b3fcdac7371"
+          }
+        },
+        {
+          "client_id": "872766379916-dkik151c6cg7r9rh88vis5siqgunrb1m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
       "api_key": [
         {
           "current_key": "AIzaSyAkMLCvefyCH0Qwn0dfMyH3k4jhbGklO98"
@@ -20,7 +34,19 @@
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": []
+          "other_platform_oauth_client": [
+            {
+              "client_id": "872766379916-dkik151c6cg7r9rh88vis5siqgunrb1m.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "872766379916-redkqbjrv43h0gkqkqqpulcso2ettslk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mobile.classChat"
+              }
+            }
+          ]
         }
       }
     }

@@ -27,6 +27,10 @@ dependencies:
   social_media_recorder: ^1.1.13
   voice_message_package: ^2.2.1
 
+  record_mp3: ^3.0.0
+  audioplayers: ^6.0.0
+
+  http:
 
 dev_dependencies:
   flutter_test:
